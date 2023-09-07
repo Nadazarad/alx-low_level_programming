@@ -1,13 +1,14 @@
 #include <stdio.h>
+
 /**
- * main: a C program
+ * main - Entry point
  *
- * Description: pront a phrase using printf function
+ * Description: print a phrase using printf function
  *
- * Return: always (0) for success
+ * Return: always 0 (success)
 */
 int main()
 {
-	printf "ith proper grammar, but the outcome is a piece of art/,"
-		Return (0);
+	print ("with proper grammar, but the outcome is a piece of art,\n");
+	Return (0);
 }
