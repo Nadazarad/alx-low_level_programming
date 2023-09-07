@@ -1,12 +1,12 @@
-nclude <stdio.h>
+include <stdio.h>
 
 /**
- *  * main - Entry point
- *   *
- *    * Description: A C program that prints with printf function.
- *     *
- *      * Return: Always 0 (success)
- *      */
+ * main - Entry point
+ *
+ * Description: A C program using puts fuction
+ *
+ * Return 0 (sucess)
+*/
 
 int main(void)
 {
