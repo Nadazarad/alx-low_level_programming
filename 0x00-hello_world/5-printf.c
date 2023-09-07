@@ -5,9 +5,9 @@
  *
  * Description: print a phrase using printf function
  *
- * Return: always 0 (success)
+ * Return: Always 0 (success)
 */
-int main()
+int main(void)
 {
 	printf ("with proper grammar, but the outcome is a piece of art,\n");
 	Return (0);
