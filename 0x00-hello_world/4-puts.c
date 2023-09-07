@@ -5,7 +5,7 @@
  *
  * Description: A C program uses puts function.
  *
- * Return 0 (Success)
+ * Return: Always 0 (Success)
 */
 
 int main(void)
