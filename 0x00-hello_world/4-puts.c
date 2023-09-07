@@ -5,9 +5,9 @@
  *
  * Description: C program to print using puts function
  *
- * Return is 0 when it successed
+ * Return always 0 (success)
  */  
-int main ()
+int main (void)
 {
              	puts("\"Programming is like building a multilingual puzzle");
 
