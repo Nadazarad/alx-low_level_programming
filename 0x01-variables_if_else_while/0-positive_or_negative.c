@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 
-/* main - Entry point
+/* main: Entry point
  *
  * Discreption: A C program to validate positive and negative.
  *
