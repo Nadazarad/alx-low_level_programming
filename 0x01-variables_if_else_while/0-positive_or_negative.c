@@ -5,7 +5,7 @@
 /**
  * main: Entry point
  *
- * Discreption: A C program to validate positive and negative.
+ * Description: true or false validation
  *
  * Return: Always 0 (success)
 */
