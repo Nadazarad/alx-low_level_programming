@@ -1,8 +1,7 @@
-#include"main.h"
+#include "main.h"
 
 /**
- *
- * Description:prints the alphabet, in lowercase
+ * Description: prints the alphabet, in lowercase
  *
 */
 
