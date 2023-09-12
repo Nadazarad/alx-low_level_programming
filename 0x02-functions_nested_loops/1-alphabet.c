@@ -1,11 +1,11 @@
-#include "main.h"
+#include"main.h"
 
 /**
- * Description: prints the alphabet, in lowercase
+ * Description: prints the alphabet in lowercase using putchar
  *
 */
 
-void print_alphabet(void)
+void print_alphabet(void) 
 {
 	int ch;
 
