@@ -3,9 +3,9 @@
 /**
  * print_sign: print + if n is greater than zero,
  *                    0 if n is zero and 
- *                    - if n is less than zero
+ *                    - if n is less than zero.
  *
- * @n: check the input
+ * @n: check the input.
  *
  * Return: returns 1 if +
  *         returns 0 if  0
@@ -24,7 +24,7 @@ int print_sign(int n)
 		_putchar(48);
          	return (0);
 	}
-	else if (n < 0)
+	else
 	{
 		_putchar(45);
         	return (-1);
