@@ -5,12 +5,17 @@
  *
  * @n: the function of the input
  *
- * Return: Always 0 (success)
+ * Return: lastdigit
 */
 
 int print_last_digit(int n)
 {
-	if(n = i)
-		_putchar(% 10 + 48);
-	return 0;
+	int lastdigit;
+
+	if (n < 0)
+		lastdigit = -1 * (n % 10);
+	else
+		lastdigit = n % 10;
+	_putchar(lastdigit + '0');
+	return (lastdigit);
 }
