@@ -9,6 +9,7 @@
  * Return: 0
 */
 
+char ch = "_putchar"
 {
 	printf("_putchar");
 	printf("\n");
