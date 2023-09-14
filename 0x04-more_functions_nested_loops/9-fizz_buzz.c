@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * main - Entry point
- *
- * Description: prints digits from 1 to 100
+ * main - print numbers 1 - 100 
+ *        numbers divisble by 3 print Fizz
+ *        numbers divisble by 5 print Buzz
+ *        numbers divisble by 3 & 5 print FizzBuzz
  *
  * retun: Always 0 (sucess)
 */
