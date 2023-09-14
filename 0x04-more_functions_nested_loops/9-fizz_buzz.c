@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * main - print numbers 1 - 100 
- *        numbers divisble by 3 print Fizz
- *        numbers divisble by 5 print Buzz
- *        numbers divisble by 3 & 5 print FizzBuzz
+ * main - print numbers 1 - 100 followed by new line
+ *        numbers multiples of 3 print Fizz
+ *        numbers multiples of 5 print Buzz
+ *        numbers multiples of 3 and 5 print FizzBuzz
  *
  * retun: Always 0 (sucess)
 */
