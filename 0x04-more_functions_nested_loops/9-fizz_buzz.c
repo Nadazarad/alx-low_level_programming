@@ -3,13 +3,13 @@
 
 /**
  * main - print numbers 1 - 100 followed by new line
- *        numbers multiples of 3 print Fizz
- *        numbers multiples of 5 print Buzz
- *        numbers multiples of 3 and 5 print FizzBuzz
+ *       numbers multiples of 3 print Fizz
+ *       numbers multiples of 5 print Buzz
+ *       numbers multiples of 3 and 5 print FizzBuzz
  *
  * @n: number in the input
  *
- * Retun: Always 0 (success)
+ * Return: Always 0 (success)
 */
 
 int main(void)
