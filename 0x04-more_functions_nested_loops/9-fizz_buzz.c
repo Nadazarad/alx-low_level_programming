@@ -7,8 +7,6 @@
  *       numbers multiples of 5 print Buzz
  *       numbers multiples of 3 and 5 print FizzBuzz
  *
- * @n: number in the input
- *
  * Return: Always 0 (success)
 */
 
@@ -26,6 +24,7 @@ int main(void)
 			printf("FizzBuzz");
 		else
 			printf("%d", n);
+
 		if (n != 100)
 			printf(" ");
 		else
