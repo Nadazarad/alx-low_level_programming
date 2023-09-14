@@ -7,7 +7,7 @@
  *        numbers multiples of 5 print Buzz
  *        numbers multiples of 3 and 5 print FizzBuzz
  *
- * @n: number input 
+ * @n: number in the input
  *
  * Retun: Always 0 (success)
 */
