@@ -4,6 +4,8 @@
  * print_square - prints a square using #
  *
  * @size: size of the square
+ *
+ * Return: Always 0 (success)
 */
 
 void print_square(int size)
@@ -16,6 +18,4 @@ void print_square(int size)
 			_putchar(35);
 		_putchar('\n');
 	}
-		_putchar('\n');
 }
-
