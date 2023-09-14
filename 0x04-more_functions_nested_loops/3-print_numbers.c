@@ -9,7 +9,7 @@
 
 void print_numbers(void)
 {
-	int i;
+	int i = 48
 
 	if (i >= 48 && i <= 57)
 		_putchar(i);
