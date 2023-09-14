@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_diagonal - function to print a diagonal
+ * print_diagonal -  print a diagonal
  *
  * @n: number of times \ should be printed
 */
@@ -18,7 +18,7 @@ void print_diagonal(int n)
 		{
 			for (space = 1; space <= dia; space++)
 			_putchar(' ');
-		_putchar('92');
+		_putchar(92);
 		_putchar('\n');
 		}
 	}
