@@ -3,7 +3,7 @@
 /**
  * print_line - function draws line in the terminal
  *
- * Return: Always 0 (success)
+ * @n: number of times _ should be printed
 */
 
 void print_line(int n)
