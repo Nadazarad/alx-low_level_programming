@@ -10,7 +10,7 @@
 
 void print_triangle(int size)
 {
-	int high, base
+	int high, base;
 
 	if (size <= 0)
 		_putchar('/n');
