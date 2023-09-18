@@ -3,16 +3,17 @@
 /**
  * _strlen - gives the length of a string
  *
- * @s: a string
+ * @s: string parameter
  *
  * Return: length of the string
 */
 
 int _strlen(char *s)
 {
-	char *s = "My first strlen!";
+	int counter;
 
-	printf("%d", strlen(*s));
+	for  (counter = 0; *s != "\0" ; s++)
+		++counter;
 
-	return (0);
+	return (counter);
 }
