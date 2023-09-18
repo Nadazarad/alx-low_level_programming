@@ -5,17 +5,10 @@
  *
  * @n: integer input
  *
- * return: Always 0 (success)
+ * return: null
 */
 
 void reset_to_98(int *n);
 {
-	int n;
-
-	n = 98;
-	int *p = &n;
-
-	printf("%d\n", p);
-
-	return (0);
+	int *n = 98;
 }
