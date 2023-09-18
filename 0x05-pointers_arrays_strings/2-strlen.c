@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strlen - gives the length of a string
+ * _strlen - return the length of a string
  *
  * @s: string parameter
  *
@@ -12,7 +12,7 @@ int _strlen(char *s)
 {
 	int counter;
 
-	for  (counter = 0; *s != "\0" ; s++)
+	for (counter = 0; *s != "\0" ; s++)
 		++counter;
 
 	return (counter);
